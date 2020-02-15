@@ -10,7 +10,7 @@ metadata:
 spec:
   tls:
   - hosts:
-    - aaksisfar.eastus2.cloudapp.azure.com
+    - aksisfar.eastus2.cloudapp.azure.com
     secretName: aksisfar-eastus2-cloudapp-azure-com-staging
   rules:
   - host: aksisfar.eastus2.cloudapp.azure.com
